@@ -24,4 +24,9 @@ lights.in
 Green fields marked by „S” are safe (illuminated) fileds, red ones with „U” are unsafe (dark)
 fields. If p1 is (1, 2) and p2 is (7, 8) then blue fields show a possible optimal path (there are
 many of them with the same number of unsafe fields).
-![Capture](https://user-images.githubusercontent.com/54741656/208548747-a6bcae36-8ece-4a9b-9e64-d0ee54b4dc06.PNG)
+
+
+
+
+
+![Capture](https://user-images.githubusercontent.com/54741656/208548788-6fdc82ce-3ae5-49d8-bba4-24c64a0cfc60.PNG)
